@@ -1,1 +1,1 @@
-# weather-api
+# Real time weather application 
